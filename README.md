@@ -1,7 +1,7 @@
 # LightHsu-ALS-Communicator
 <br>
 
-## 普通用户建议从 **[Releases](../../releases)** 页面下载便携版压缩包，解压即用。
+## 💡  普通用户建议从 **[Releases](../../releases)** 页面下载便携版压缩包，解压即用。
 <br>
 
 
